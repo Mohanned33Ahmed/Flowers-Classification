@@ -1,2 +1,2 @@
 # Flowers-Classification
-This is a ResNet50 Convolutional Neural Network model which classifies five separate types of flowers (Daisy, Dandellion, Rose, Sunflower and Tulip).
+Applying Deep-learning to classify flower types. The model deploys a Convolutional Neural Network with an architecture of ResNet-50 using pytorch framework and fastai library. Transfer learning is used in training the model to shorten and facilitate the training operation. The dataset has five flower types which are daisy, dandelion, rose, sunflower, and tulip. The dataset has been obtained from Kaggle. The present model delivers a very high accuracy.
